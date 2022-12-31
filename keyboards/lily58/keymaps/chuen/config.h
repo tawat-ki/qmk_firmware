@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Select hand configuration */
 
 #define MASTER_LEFT
-// #define MASTER_RIGHT
+//#define MASTER_RIGHT
 // #define EE_HANDS
 
 #define TAPPING_FORCE_HOLD
@@ -44,5 +44,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLIGHT_ANIMATIONS
 #define RGBLIGHT_SLEEP
 */
-//#define DYNAMIC_MACRO_SIZE	128
-//#define DYNAMIC_MACRO_DELAY 40
+#define DYNAMIC_MACRO_SIZE	128
+#define DYNAMIC_MACRO_DELAY 50
